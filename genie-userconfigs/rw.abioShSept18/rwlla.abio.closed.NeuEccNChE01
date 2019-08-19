@@ -1,0 +1,82 @@
+#
+#
+# --- CLIMATE ---------------------------------------------------------
+#
+# solar constant, is set in the base-config (End of Paleogen)
+# set climate feedback
+ea_36=y
+ea_opt_freeze=.false.
+
+#
+# --- BIOLOGICAL NEW PRODUCTION --------------------------------
+#
+# No biology
+bg_par_bio_prodopt='NONE'
+
+
+# --- ORGANIC MATTER EXPORT RATIOS -----------------------------
+
+# --- INORGANIC MATTER EXPORT RATIOS ---------------------------
+
+# --- REMINERALIZATION -----------------------------------------
+
+# --- SEDIMENTS ------------------------------------------------
+
+# --- WEATHERING -----------------------------------------------
+
+# --- DATA SAVING ----------------------------------------------
+# date saving & reporting options
+bg_par_data_save_level=9
+bg_par_data_save_slice_n=2
+bg_ctrl_debug_lvl0=.true.
+ma_debug_loop=1
+# save frequency
+bg_par_infile_sig_name='save_timeseries_EVERY000100.dat'
+# representative NH latitude and season to sample orbital variation of insolation
+bg_par_t_sig_count_N=10
+bg_par_sig_j_N=17
+# SH latitude/season
+bg_par_t_sig_count_S=10
+bg_par_sig_j_S=2
+#
+# --- FORCINGS --------------------------------------------------------
+#
+# specify forcings
+## Comment out for no restoring
+#bg_par_forcing_name="pyyyyz.RpCO2_Rp13CO2"
+
+bg_par_atm_force_scale_val_3=278.0E-06
+ac_atm_init_3=278.0E-06
+bg_par_atm_force_scale_val_4=-6.5
+
+# use internal wind-speed
+bg_ctrl_force_windspeed=.false.
+#re-scale gas transfer coeff to give ~0.058 mol m-2 yr-1 uatm-1 global mean air-sea coefficient (original: 0.310)
+bg_par_gastransfer_a=0.715813093980993
+
+# --- ORBITS!!! --------------------------------------------------------
+
+# Orbital parameters 
+
+# Eccentricity High
+ea_par_orbit_osce= 0.06
+ea_par_orbit_oscsob= 0.413104429
+ea_par_orbit_oscgam= 90
+ea_par_orbit_osctau0=0.0
+
+# Eccentricity Low
+# ea_par_orbit_osce= 0.00416
+# ea_par_orbit_oscsob= 0.413104429
+# ea_par_orbit_oscgam= 90
+# ea_par_orbit_osctau0= 0.0
+
+# (modern, defaults)
+###ea_par_orbit_osce=0.0167 # eccentricity
+###ea_par_orbit_oscsob=0.397789 # sine of obliquity
+###ea_par_orbit_oscgam=1.352631 # longitude of perihelion? [radians]
+###ea_par_orbit_osctau0=-0.5 # ???
+
+# --- END ------------------------------------------------------
+#
+ea_debug_init=.true.
+ea_debug_loop=.true.

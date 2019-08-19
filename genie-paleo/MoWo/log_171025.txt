@@ -1,0 +1,25 @@
+ 
+------------------------------------------------------------
+   Hello! Welcome to muffingen v0.55
+   We are going to make a GREAT model configuration!
+------------------------------------------------------------
+ 
+>   1. CHECKING PRIMARY OPTIONS ...
+       * GENIE grid will be loaded directly from k1 or mask text file: MoWo2
+>   2. CREATING GENIE GRID ...
+       - GENIE grid generated.
+>   3. READING AXES INFORMATION ...
+         (Nothing to load.)
+>   4. READING MASK & TOPO GRIDS ...
+       ERROR: k1 file: MoWo2 does not exist (at location INPUT.EXAMPLES).
+              Problem with correct extension? (k1 file extension must be .k1, and mask file .dat)
+--------------------------------------------------------
+ 
+{Output argument "k1" (and maybe others) not assigned during call to "fun_read_k1".
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('muffingen', '/Users/ktlabcomputer/Documents/muffingen-master/muffingen.m', 387)" style="font-weight:bold">muffingen</a> (<a href="matlab: opentoline('/Users/ktlabcomputer/Documents/muffingen-master/muffingen.m',387,0)">line 387</a>)
+        [go_k1,go_mask,imax,jmax] = fun_read_k1(str);
+} 
+muffingen('muffingen_settings_MoWo')
+ 
+>>> INITIALIZING ...

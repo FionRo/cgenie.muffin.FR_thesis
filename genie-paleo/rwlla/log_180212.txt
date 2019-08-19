@@ -1,0 +1,172 @@
+ 
+------------------------------------------------------------
+   Hello! Welcome to muffingen v0.55
+   We are going to make a GREAT model configuration!
+------------------------------------------------------------
+ 
+>   1. CHECKING PRIMARY OPTIONS ...
+       * GENIE grid will be loaded directly from k1 or mask text file: rwlla
+>   2. CREATING GENIE GRID ...
+       - GENIE grid generated.
+>   3. READING AXES INFORMATION ...
+         (Nothing to load.)
+>   4. READING MASK & TOPO GRIDS ...
+       - k1 read.
+       - GENIE grid re-generated.
+>   5. RE-GRIDING MASK ...
+         (Nothing to do ... k1/mask file already loaded.)
+[Warning: The figure is too large for the page and will be cut off. Resize the figure, adjust the output size by setting the figure's PaperPosition
+property, use the 'print' command with either the  '-bestfit' or '-fillpage' options, or use the 'Best fit' or 'Fill page' options on the 'Print Preview'
+window.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('validate', '/Applications/MATLAB_R2016b.app/toolbox/matlab/graphics/private/validate.m', 203)" style="font-weight:bold">validate</a> (<a href="matlab: opentoline('/Applications/MATLAB_R2016b.app/toolbox/matlab/graphics/private/validate.m',203,0)">line 203</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('print', '/Applications/MATLAB_R2016b.app/toolbox/matlab/graphics/print.m', 81)" style="font-weight:bold">print</a> (<a href="matlab: opentoline('/Applications/MATLAB_R2016b.app/toolbox/matlab/graphics/print.m',81,0)">line 81</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('plot_2dgridded', '/Users/frochholz/PhDProject/muffingen-master/source/plot_2dgridded.m', 193)" style="font-weight:bold">plot_2dgridded</a> (<a href="matlab: opentoline('/Users/frochholz/PhDProject/muffingen-master/source/plot_2dgridded.m',193,0)">line 193</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('muffingen', '/Users/frochholz/PhDProject/muffingen-master/muffingen.m', 430)" style="font-weight:bold">muffingen</a> (<a href="matlab: opentoline('/Users/frochholz/PhDProject/muffingen-master/muffingen.m',430,0)">line 430</a>)] 
+>   6. RE-GRIDING TOPOGRAPHY ...
+         (Nothing to re-grid -- convertrf k1 file data.)
+>   7. FILTERING MASK ...
+       * found 1 water masses
+[Warning: The figure is too large for the page and will be cut off. Resize the figure, adjust the output size by setting the figure's PaperPosition
+property, use the 'print' command with either the  '-bestfit' or '-fillpage' options, or use the 'Best fit' or 'Fill page' options on the 'Print Preview'
+window.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('validate', '/Applications/MATLAB_R2016b.app/toolbox/matlab/graphics/private/validate.m', 203)" style="font-weight:bold">validate</a> (<a href="matlab: opentoline('/Applications/MATLAB_R2016b.app/toolbox/matlab/graphics/private/validate.m',203,0)">line 203</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('print', '/Applications/MATLAB_R2016b.app/toolbox/matlab/graphics/print.m', 81)" style="font-weight:bold">print</a> (<a href="matlab: opentoline('/Applications/MATLAB_R2016b.app/toolbox/matlab/graphics/print.m',81,0)">line 81</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('plot_2dgridded', '/Users/frochholz/PhDProject/muffingen-master/source/plot_2dgridded.m', 193)" style="font-weight:bold">plot_2dgridded</a> (<a href="matlab: opentoline('/Users/frochholz/PhDProject/muffingen-master/source/plot_2dgridded.m',193,0)">line 193</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('muffingen', '/Users/frochholz/PhDProject/muffingen-master/muffingen.m', 528)" style="font-weight:bold">muffingen</a> (<a href="matlab: opentoline('/Users/frochholz/PhDProject/muffingen-master/muffingen.m',528,0)">line 528</a>)] 
+       - Small water bodies cleaned up.
+[Warning: The figure is too large for the page and will be cut off. Resize the figure, adjust the output size by setting the figure's PaperPosition
+property, use the 'print' command with either the  '-bestfit' or '-fillpage' options, or use the 'Best fit' or 'Fill page' options on the 'Print Preview'
+window.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('validate', '/Applications/MATLAB_R2016b.app/toolbox/matlab/graphics/private/validate.m', 203)" style="font-weight:bold">validate</a> (<a href="matlab: opentoline('/Applications/MATLAB_R2016b.app/toolbox/matlab/graphics/private/validate.m',203,0)">line 203</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('print', '/Applications/MATLAB_R2016b.app/toolbox/matlab/graphics/print.m', 81)" style="font-weight:bold">print</a> (<a href="matlab: opentoline('/Applications/MATLAB_R2016b.app/toolbox/matlab/graphics/print.m',81,0)">line 81</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('plot_2dgridded', '/Users/frochholz/PhDProject/muffingen-master/source/plot_2dgridded.m', 193)" style="font-weight:bold">plot_2dgridded</a> (<a href="matlab: opentoline('/Users/frochholz/PhDProject/muffingen-master/source/plot_2dgridded.m',193,0)">line 193</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('muffingen', '/Users/frochholz/PhDProject/muffingen-master/muffingen.m', 536)" style="font-weight:bold">muffingen</a> (<a href="matlab: opentoline('/Users/frochholz/PhDProject/muffingen-master/muffingen.m',536,0)">line 536</a>)] 
+       * Revised land area fraction = 0.22222
+[Warning: The figure is too large for the page and will be cut off. Resize the figure, adjust the output size by setting the figure's PaperPosition
+property, use the 'print' command with either the  '-bestfit' or '-fillpage' options, or use the 'Best fit' or 'Fill page' options on the 'Print Preview'
+window.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('validate', '/Applications/MATLAB_R2016b.app/toolbox/matlab/graphics/private/validate.m', 203)" style="font-weight:bold">validate</a> (<a href="matlab: opentoline('/Applications/MATLAB_R2016b.app/toolbox/matlab/graphics/private/validate.m',203,0)">line 203</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('print', '/Applications/MATLAB_R2016b.app/toolbox/matlab/graphics/print.m', 81)" style="font-weight:bold">print</a> (<a href="matlab: opentoline('/Applications/MATLAB_R2016b.app/toolbox/matlab/graphics/print.m',81,0)">line 81</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('plot_2dgridded', '/Users/frochholz/PhDProject/muffingen-master/source/plot_2dgridded.m', 193)" style="font-weight:bold">plot_2dgridded</a> (<a href="matlab: opentoline('/Users/frochholz/PhDProject/muffingen-master/source/plot_2dgridded.m',193,0)">line 193</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('muffingen', '/Users/frochholz/PhDProject/muffingen-master/muffingen.m', 571)" style="font-weight:bold">muffingen</a> (<a href="matlab: opentoline('/Users/frochholz/PhDProject/muffingen-master/muffingen.m',571,0)">line 571</a>)] 
+       * Final land area fraction   = 0.22222
+>   9. RE-GRIDING OCEAN BATHYMETRY ...
+         (Nothing to re-grid as k1 file already loaded.)
+[Warning: The figure is too large for the page and will be cut off. Resize the figure, adjust the output size by setting the figure's PaperPosition
+property, use the 'print' command with either the  '-bestfit' or '-fillpage' options, or use the 'Best fit' or 'Fill page' options on the 'Print Preview'
+window.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('validate', '/Applications/MATLAB_R2016b.app/toolbox/matlab/graphics/private/validate.m', 203)" style="font-weight:bold">validate</a> (<a href="matlab: opentoline('/Applications/MATLAB_R2016b.app/toolbox/matlab/graphics/private/validate.m',203,0)">line 203</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('print', '/Applications/MATLAB_R2016b.app/toolbox/matlab/graphics/print.m', 81)" style="font-weight:bold">print</a> (<a href="matlab: opentoline('/Applications/MATLAB_R2016b.app/toolbox/matlab/graphics/print.m',81,0)">line 81</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('plot_2dgridded', '/Users/frochholz/PhDProject/muffingen-master/source/plot_2dgridded.m', 193)" style="font-weight:bold">plot_2dgridded</a> (<a href="matlab: opentoline('/Users/frochholz/PhDProject/muffingen-master/source/plot_2dgridded.m',193,0)">line 193</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('muffingen', '/Users/frochholz/PhDProject/muffingen-master/muffingen.m', 594)" style="font-weight:bold">muffingen</a> (<a href="matlab: opentoline('/Users/frochholz/PhDProject/muffingen-master/muffingen.m',594,0)">line 594</a>)] 
+[Warning: The figure is too large for the page and will be cut off. Resize the figure, adjust the output size by setting the figure's PaperPosition
+property, use the 'print' command with either the  '-bestfit' or '-fillpage' options, or use the 'Best fit' or 'Fill page' options on the 'Print Preview'
+window.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('validate', '/Applications/MATLAB_R2016b.app/toolbox/matlab/graphics/private/validate.m', 203)" style="font-weight:bold">validate</a> (<a href="matlab: opentoline('/Applications/MATLAB_R2016b.app/toolbox/matlab/graphics/private/validate.m',203,0)">line 203</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('print', '/Applications/MATLAB_R2016b.app/toolbox/matlab/graphics/print.m', 81)" style="font-weight:bold">print</a> (<a href="matlab: opentoline('/Applications/MATLAB_R2016b.app/toolbox/matlab/graphics/print.m',81,0)">line 81</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('plot_2dgridded', '/Users/frochholz/PhDProject/muffingen-master/source/plot_2dgridded.m', 193)" style="font-weight:bold">plot_2dgridded</a> (<a href="matlab: opentoline('/Users/frochholz/PhDProject/muffingen-master/source/plot_2dgridded.m',193,0)">line 193</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('muffingen', '/Users/frochholz/PhDProject/muffingen-master/muffingen.m', 628)" style="font-weight:bold">muffingen</a> (<a href="matlab: opentoline('/Users/frochholz/PhDProject/muffingen-master/muffingen.m',628,0)">line 628</a>)] 
+[Warning: The figure is too large for the page and will be cut off. Resize the figure, adjust the output size by setting the figure's PaperPosition
+property, use the 'print' command with either the  '-bestfit' or '-fillpage' options, or use the 'Best fit' or 'Fill page' options on the 'Print Preview'
+window.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('validate', '/Applications/MATLAB_R2016b.app/toolbox/matlab/graphics/private/validate.m', 203)" style="font-weight:bold">validate</a> (<a href="matlab: opentoline('/Applications/MATLAB_R2016b.app/toolbox/matlab/graphics/private/validate.m',203,0)">line 203</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('print', '/Applications/MATLAB_R2016b.app/toolbox/matlab/graphics/print.m', 81)" style="font-weight:bold">print</a> (<a href="matlab: opentoline('/Applications/MATLAB_R2016b.app/toolbox/matlab/graphics/print.m',81,0)">line 81</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('plot_2dgridded', '/Users/frochholz/PhDProject/muffingen-master/source/plot_2dgridded.m', 193)" style="font-weight:bold">plot_2dgridded</a> (<a href="matlab: opentoline('/Users/frochholz/PhDProject/muffingen-master/source/plot_2dgridded.m',193,0)">line 193</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('muffingen', '/Users/frochholz/PhDProject/muffingen-master/muffingen.m', 630)" style="font-weight:bold">muffingen</a> (<a href="matlab: opentoline('/Users/frochholz/PhDProject/muffingen-master/muffingen.m',630,0)">line 630</a>)] 
+>  12. CALCULATING RUN-OFF AND GENERATE .k1 FILE ...
+[Warning: The figure is too large for the page and will be cut off. Resize the figure, adjust the output size by setting the figure's PaperPosition
+property, use the 'print' command with either the  '-bestfit' or '-fillpage' options, or use the 'Best fit' or 'Fill page' options on the 'Print Preview'
+window.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('validate', '/Applications/MATLAB_R2016b.app/toolbox/matlab/graphics/private/validate.m', 203)" style="font-weight:bold">validate</a> (<a href="matlab: opentoline('/Applications/MATLAB_R2016b.app/toolbox/matlab/graphics/private/validate.m',203,0)">line 203</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('print', '/Applications/MATLAB_R2016b.app/toolbox/matlab/graphics/print.m', 81)" style="font-weight:bold">print</a> (<a href="matlab: opentoline('/Applications/MATLAB_R2016b.app/toolbox/matlab/graphics/print.m',81,0)">line 81</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('plot_2dgridded', '/Users/frochholz/PhDProject/muffingen-master/source/plot_2dgridded.m', 193)" style="font-weight:bold">plot_2dgridded</a> (<a href="matlab: opentoline('/Users/frochholz/PhDProject/muffingen-master/source/plot_2dgridded.m',193,0)">line 193</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('muffingen', '/Users/frochholz/PhDProject/muffingen-master/muffingen.m', 647)" style="font-weight:bold">muffingen</a> (<a href="matlab: opentoline('/Users/frochholz/PhDProject/muffingen-master/muffingen.m',647,0)">line 647</a>)] 
+       - .k1 file saved
+>  13. IDENTIFY ISLANDS ...
+       * found 1 land masses
+[Warning: The figure is too large for the page and will be cut off. Resize the figure, adjust the output size by setting the figure's PaperPosition
+property, use the 'print' command with either the  '-bestfit' or '-fillpage' options, or use the 'Best fit' or 'Fill page' options on the 'Print Preview'
+window.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('validate', '/Applications/MATLAB_R2016b.app/toolbox/matlab/graphics/private/validate.m', 203)" style="font-weight:bold">validate</a> (<a href="matlab: opentoline('/Applications/MATLAB_R2016b.app/toolbox/matlab/graphics/private/validate.m',203,0)">line 203</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('print', '/Applications/MATLAB_R2016b.app/toolbox/matlab/graphics/print.m', 81)" style="font-weight:bold">print</a> (<a href="matlab: opentoline('/Applications/MATLAB_R2016b.app/toolbox/matlab/graphics/print.m',81,0)">line 81</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('plot_2dgridded', '/Users/frochholz/PhDProject/muffingen-master/source/plot_2dgridded.m', 193)" style="font-weight:bold">plot_2dgridded</a> (<a href="matlab: opentoline('/Users/frochholz/PhDProject/muffingen-master/source/plot_2dgridded.m',193,0)">line 193</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('muffingen', '/Users/frochholz/PhDProject/muffingen-master/muffingen.m', 679)" style="font-weight:bold">muffingen</a> (<a href="matlab: opentoline('/Users/frochholz/PhDProject/muffingen-master/muffingen.m',679,0)">line 679</a>)] 
+>  14. UPDATING ISLANDS & PATHS ...
+[Warning: The figure is too large for the page and will be cut off. Resize the figure, adjust the output size by setting the figure's PaperPosition
+property, use the 'print' command with either the  '-bestfit' or '-fillpage' options, or use the 'Best fit' or 'Fill page' options on the 'Print Preview'
+window.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('validate', '/Applications/MATLAB_R2016b.app/toolbox/matlab/graphics/private/validate.m', 203)" style="font-weight:bold">validate</a> (<a href="matlab: opentoline('/Applications/MATLAB_R2016b.app/toolbox/matlab/graphics/private/validate.m',203,0)">line 203</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('print', '/Applications/MATLAB_R2016b.app/toolbox/matlab/graphics/print.m', 81)" style="font-weight:bold">print</a> (<a href="matlab: opentoline('/Applications/MATLAB_R2016b.app/toolbox/matlab/graphics/print.m',81,0)">line 81</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('plot_2dgridded', '/Users/frochholz/PhDProject/muffingen-master/source/plot_2dgridded.m', 193)" style="font-weight:bold">plot_2dgridded</a> (<a href="matlab: opentoline('/Users/frochholz/PhDProject/muffingen-master/source/plot_2dgridded.m',193,0)">line 193</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('muffingen', '/Users/frochholz/PhDProject/muffingen-master/muffingen.m', 691)" style="font-weight:bold">muffingen</a> (<a href="matlab: opentoline('/Users/frochholz/PhDProject/muffingen-master/muffingen.m',691,0)">line 691</a>)] 
+       * updated find: N-S connected polar island
+       * total # true islands = 0
+[Warning: The figure is too large for the page and will be cut off. Resize the figure, adjust the output size by setting the figure's PaperPosition
+property, use the 'print' command with either the  '-bestfit' or '-fillpage' options, or use the 'Best fit' or 'Fill page' options on the 'Print Preview'
+window.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('validate', '/Applications/MATLAB_R2016b.app/toolbox/matlab/graphics/private/validate.m', 203)" style="font-weight:bold">validate</a> (<a href="matlab: opentoline('/Applications/MATLAB_R2016b.app/toolbox/matlab/graphics/private/validate.m',203,0)">line 203</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('print', '/Applications/MATLAB_R2016b.app/toolbox/matlab/graphics/print.m', 81)" style="font-weight:bold">print</a> (<a href="matlab: opentoline('/Applications/MATLAB_R2016b.app/toolbox/matlab/graphics/print.m',81,0)">line 81</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('plot_2dgridded', '/Users/frochholz/PhDProject/muffingen-master/source/plot_2dgridded.m', 193)" style="font-weight:bold">plot_2dgridded</a> (<a href="matlab: opentoline('/Users/frochholz/PhDProject/muffingen-master/source/plot_2dgridded.m',193,0)">line 193</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('muffingen', '/Users/frochholz/PhDProject/muffingen-master/muffingen.m', 697)" style="font-weight:bold">muffingen</a> (<a href="matlab: opentoline('/Users/frochholz/PhDProject/muffingen-master/muffingen.m',697,0)">line 697</a>)] 
+[Warning: The figure is too large for the page and will be cut off. Resize the figure, adjust the output size by setting the figure's PaperPosition
+property, use the 'print' command with either the  '-bestfit' or '-fillpage' options, or use the 'Best fit' or 'Fill page' options on the 'Print Preview'
+window.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('validate', '/Applications/MATLAB_R2016b.app/toolbox/matlab/graphics/private/validate.m', 203)" style="font-weight:bold">validate</a> (<a href="matlab: opentoline('/Applications/MATLAB_R2016b.app/toolbox/matlab/graphics/private/validate.m',203,0)">line 203</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('print', '/Applications/MATLAB_R2016b.app/toolbox/matlab/graphics/print.m', 81)" style="font-weight:bold">print</a> (<a href="matlab: opentoline('/Applications/MATLAB_R2016b.app/toolbox/matlab/graphics/print.m',81,0)">line 81</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('plot_2dgridded', '/Users/frochholz/PhDProject/muffingen-master/source/plot_2dgridded.m', 193)" style="font-weight:bold">plot_2dgridded</a> (<a href="matlab: opentoline('/Users/frochholz/PhDProject/muffingen-master/source/plot_2dgridded.m',193,0)">line 193</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('muffingen', '/Users/frochholz/PhDProject/muffingen-master/muffingen.m', 701)" style="font-weight:bold">muffingen</a> (<a href="matlab: opentoline('/Users/frochholz/PhDProject/muffingen-master/muffingen.m',701,0)">line 701</a>)] 
+[Warning: The figure is too large for the page and will be cut off. Resize the figure, adjust the output size by setting the figure's PaperPosition
+property, use the 'print' command with either the  '-bestfit' or '-fillpage' options, or use the 'Best fit' or 'Fill page' options on the 'Print Preview'
+window.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('validate', '/Applications/MATLAB_R2016b.app/toolbox/matlab/graphics/private/validate.m', 203)" style="font-weight:bold">validate</a> (<a href="matlab: opentoline('/Applications/MATLAB_R2016b.app/toolbox/matlab/graphics/private/validate.m',203,0)">line 203</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('print', '/Applications/MATLAB_R2016b.app/toolbox/matlab/graphics/print.m', 81)" style="font-weight:bold">print</a> (<a href="matlab: opentoline('/Applications/MATLAB_R2016b.app/toolbox/matlab/graphics/print.m',81,0)">line 81</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('plot_2dgridded', '/Users/frochholz/PhDProject/muffingen-master/source/plot_2dgridded.m', 193)" style="font-weight:bold">plot_2dgridded</a> (<a href="matlab: opentoline('/Users/frochholz/PhDProject/muffingen-master/source/plot_2dgridded.m',193,0)">line 193</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('muffingen', '/Users/frochholz/PhDProject/muffingen-master/muffingen.m', 712)" style="font-weight:bold">muffingen</a> (<a href="matlab: opentoline('/Users/frochholz/PhDProject/muffingen-master/muffingen.m',712,0)">line 712</a>)] 
+>  15. GENERATING .paths FILE ...
+[Warning: The figure is too large for the page and will be cut off. Resize the figure, adjust the output size by setting the figure's PaperPosition
+property, use the 'print' command with either the  '-bestfit' or '-fillpage' options, or use the 'Best fit' or 'Fill page' options on the 'Print Preview'
+window.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('validate', '/Applications/MATLAB_R2016b.app/toolbox/matlab/graphics/private/validate.m', 203)" style="font-weight:bold">validate</a> (<a href="matlab: opentoline('/Applications/MATLAB_R2016b.app/toolbox/matlab/graphics/private/validate.m',203,0)">line 203</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('print', '/Applications/MATLAB_R2016b.app/toolbox/matlab/graphics/print.m', 81)" style="font-weight:bold">print</a> (<a href="matlab: opentoline('/Applications/MATLAB_R2016b.app/toolbox/matlab/graphics/print.m',81,0)">line 81</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('plot_2dgridded', '/Users/frochholz/PhDProject/muffingen-master/source/plot_2dgridded.m', 193)" style="font-weight:bold">plot_2dgridded</a> (<a href="matlab: opentoline('/Users/frochholz/PhDProject/muffingen-master/source/plot_2dgridded.m',193,0)">line 193</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('muffingen', '/Users/frochholz/PhDProject/muffingen-master/muffingen.m', 724)" style="font-weight:bold">muffingen</a> (<a href="matlab: opentoline('/Users/frochholz/PhDProject/muffingen-master/muffingen.m',724,0)">line 724</a>)] 
+       - .paths file saved
+>  16. GENERATING .psiles FILE ...
+[Warning: The figure is too large for the page and will be cut off. Resize the figure, adjust the output size by setting the figure's PaperPosition
+property, use the 'print' command with either the  '-bestfit' or '-fillpage' options, or use the 'Best fit' or 'Fill page' options on the 'Print Preview'
+window.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('validate', '/Applications/MATLAB_R2016b.app/toolbox/matlab/graphics/private/validate.m', 203)" style="font-weight:bold">validate</a> (<a href="matlab: opentoline('/Applications/MATLAB_R2016b.app/toolbox/matlab/graphics/private/validate.m',203,0)">line 203</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('print', '/Applications/MATLAB_R2016b.app/toolbox/matlab/graphics/print.m', 81)" style="font-weight:bold">print</a> (<a href="matlab: opentoline('/Applications/MATLAB_R2016b.app/toolbox/matlab/graphics/print.m',81,0)">line 81</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('plot_2dgridded', '/Users/frochholz/PhDProject/muffingen-master/source/plot_2dgridded.m', 193)" style="font-weight:bold">plot_2dgridded</a> (<a href="matlab: opentoline('/Users/frochholz/PhDProject/muffingen-master/source/plot_2dgridded.m',193,0)">line 193</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('muffingen', '/Users/frochholz/PhDProject/muffingen-master/muffingen.m', 739)" style="font-weight:bold">muffingen</a> (<a href="matlab: opentoline('/Users/frochholz/PhDProject/muffingen-master/muffingen.m',739,0)">line 739</a>)] 
+       - .psiles file saved
+       ! Something odd about the islands count or configuration ...
+>  17. CREATING WIND PRODUCTS ...
+       * No Northern gateway found.
+       * No Southern gateway found.
+       - Generated zonal wind products.
+>  18. LOADING ALBEDO DATA ...
+         (Nothing to load.)
+>  19. CREATING ALBEDO DATA ...
+       - Created generic zonal mean albedo profile.
+       - .albd.dat file saved
+>  20. GENERATING SEDIMENT TOPO ...
+       - Converted k1 file data (nothing to re-grid).
+[Warning: The figure is too large for the page and will be cut off. Resize the figure, adjust the output size by setting the figure's PaperPosition
+property, use the 'print' command with either the  '-bestfit' or '-fillpage' options, or use the 'Best fit' or 'Fill page' options on the 'Print Preview'
+window.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('validate', '/Applications/MATLAB_R2016b.app/toolbox/matlab/graphics/private/validate.m', 203)" style="font-weight:bold">validate</a> (<a href="matlab: opentoline('/Applications/MATLAB_R2016b.app/toolbox/matlab/graphics/private/validate.m',203,0)">line 203</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('print', '/Applications/MATLAB_R2016b.app/toolbox/matlab/graphics/print.m', 81)" style="font-weight:bold">print</a> (<a href="matlab: opentoline('/Applications/MATLAB_R2016b.app/toolbox/matlab/graphics/print.m',81,0)">line 81</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('plot_2dgridded', '/Users/frochholz/PhDProject/muffingen-master/source/plot_2dgridded.m', 193)" style="font-weight:bold">plot_2dgridded</a> (<a href="matlab: opentoline('/Users/frochholz/PhDProject/muffingen-master/source/plot_2dgridded.m',193,0)">line 193</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('muffingen', '/Users/frochholz/PhDProject/muffingen-master/muffingen.m', 888)" style="font-weight:bold">muffingen</a> (<a href="matlab: opentoline('/Users/frochholz/PhDProject/muffingen-master/muffingen.m',888,0)">line 888</a>)] 
+       - .depth.dat saved
+       - template file .sedcoremask.dat saved
+       - template file .reefmask.dat saved
+>  21. GENERATING CONFIG FILE PARAMETER LINES ...
+       - .config file saved
+ 
+------------------------------------------------------------
+   Congratulations! SOMETHING was created ... 
+   ... hope it was what you wished for! :o)
+------------------------------------------------------------
+ 

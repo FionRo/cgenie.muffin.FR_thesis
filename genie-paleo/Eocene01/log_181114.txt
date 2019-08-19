@@ -1,0 +1,581 @@
+ 
+------------------------------------------------------------
+   Hello! Welcome to muffingen v0.55
+   We are going to make a GREAT model configuration!
+------------------------------------------------------------
+ 
+>   1. CHECKING PRIMARY OPTIONS ...
+       * A blank template grid will be generated: 
+>   2. CREATING GENIE GRID ...
+       - GENIE grid generated.
+>   3. READING AXES INFORMATION ...
+         (Nothing to load.)
+>   4. READING MASK & TOPO GRIDS ...
+         (Nothing to load.)
+>   5. RE-GRIDING MASK ...
+       - Blank mask created (nothing to re-grid).
+[Warning: The figure is too large for the page and will be cut off. Resize the figure, adjust the output size by setting the figure's PaperPosition property, use the
+'print' command with either the  '-bestfit' or '-fillpage' options, or use the 'Best fit' or 'Fill page' options on the 'Print Preview' window.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('validate', '/Applications/MATLAB_R2016b.app/toolbox/matlab/graphics/private/validate.m', 203)" style="font-weight:bold">validate</a> (<a href="matlab: opentoline('/Applications/MATLAB_R2016b.app/toolbox/matlab/graphics/private/validate.m',203,0)">line 203</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('print', '/Applications/MATLAB_R2016b.app/toolbox/matlab/graphics/print.m', 81)" style="font-weight:bold">print</a> (<a href="matlab: opentoline('/Applications/MATLAB_R2016b.app/toolbox/matlab/graphics/print.m',81,0)">line 81</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('plot_2dgridded', '/Users/frochholz/PhDProject/muffingen-master/source/plot_2dgridded.m', 193)" style="font-weight:bold">plot_2dgridded</a> (<a href="matlab: opentoline('/Users/frochholz/PhDProject/muffingen-master/source/plot_2dgridded.m',193,0)">line 193</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('muffingen', '/Users/frochholz/PhDProject/muffingen-master/muffingen.m', 430)" style="font-weight:bold">muffingen</a> (<a href="matlab: opentoline('/Users/frochholz/PhDProject/muffingen-master/muffingen.m',430,0)">line 430</a>)] 
+>   6. RE-GRIDING TOPOGRAPHY ...
+         (Nothing to re-grid -- set uniform ocean depth.)
+[Warning: The figure is too large for the page and will be cut off. Resize the figure, adjust the output size by setting the figure's PaperPosition property, use the
+'print' command with either the  '-bestfit' or '-fillpage' options, or use the 'Best fit' or 'Fill page' options on the 'Print Preview' window.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('validate', '/Applications/MATLAB_R2016b.app/toolbox/matlab/graphics/private/validate.m', 203)" style="font-weight:bold">validate</a> (<a href="matlab: opentoline('/Applications/MATLAB_R2016b.app/toolbox/matlab/graphics/private/validate.m',203,0)">line 203</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('print', '/Applications/MATLAB_R2016b.app/toolbox/matlab/graphics/print.m', 81)" style="font-weight:bold">print</a> (<a href="matlab: opentoline('/Applications/MATLAB_R2016b.app/toolbox/matlab/graphics/print.m',81,0)">line 81</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('plot_2dgridded', '/Users/frochholz/PhDProject/muffingen-master/source/plot_2dgridded.m', 193)" style="font-weight:bold">plot_2dgridded</a> (<a href="matlab: opentoline('/Users/frochholz/PhDProject/muffingen-master/source/plot_2dgridded.m',193,0)">line 193</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('muffingen', '/Users/frochholz/PhDProject/muffingen-master/muffingen.m', 459)" style="font-weight:bold">muffingen</a> (<a href="matlab: opentoline('/Users/frochholz/PhDProject/muffingen-master/muffingen.m',459,0)">line 459</a>)] 
+>   7. FILTERING MASK ...
+       * found 1 water masses
+[Warning: The figure is too large for the page and will be cut off. Resize the figure, adjust the output size by setting the figure's PaperPosition property, use the
+'print' command with either the  '-bestfit' or '-fillpage' options, or use the 'Best fit' or 'Fill page' options on the 'Print Preview' window.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('validate', '/Applications/MATLAB_R2016b.app/toolbox/matlab/graphics/private/validate.m', 203)" style="font-weight:bold">validate</a> (<a href="matlab: opentoline('/Applications/MATLAB_R2016b.app/toolbox/matlab/graphics/private/validate.m',203,0)">line 203</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('print', '/Applications/MATLAB_R2016b.app/toolbox/matlab/graphics/print.m', 81)" style="font-weight:bold">print</a> (<a href="matlab: opentoline('/Applications/MATLAB_R2016b.app/toolbox/matlab/graphics/print.m',81,0)">line 81</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('plot_2dgridded', '/Users/frochholz/PhDProject/muffingen-master/source/plot_2dgridded.m', 193)" style="font-weight:bold">plot_2dgridded</a> (<a href="matlab: opentoline('/Users/frochholz/PhDProject/muffingen-master/source/plot_2dgridded.m',193,0)">line 193</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('muffingen', '/Users/frochholz/PhDProject/muffingen-master/muffingen.m', 528)" style="font-weight:bold">muffingen</a> (<a href="matlab: opentoline('/Users/frochholz/PhDProject/muffingen-master/muffingen.m',528,0)">line 528</a>)] 
+       - Small water bodies cleaned up.
+[Warning: The figure is too large for the page and will be cut off. Resize the figure, adjust the output size by setting the figure's PaperPosition property, use the
+'print' command with either the  '-bestfit' or '-fillpage' options, or use the 'Best fit' or 'Fill page' options on the 'Print Preview' window.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('validate', '/Applications/MATLAB_R2016b.app/toolbox/matlab/graphics/private/validate.m', 203)" style="font-weight:bold">validate</a> (<a href="matlab: opentoline('/Applications/MATLAB_R2016b.app/toolbox/matlab/graphics/private/validate.m',203,0)">line 203</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('print', '/Applications/MATLAB_R2016b.app/toolbox/matlab/graphics/print.m', 81)" style="font-weight:bold">print</a> (<a href="matlab: opentoline('/Applications/MATLAB_R2016b.app/toolbox/matlab/graphics/print.m',81,0)">line 81</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('plot_2dgridded', '/Users/frochholz/PhDProject/muffingen-master/source/plot_2dgridded.m', 193)" style="font-weight:bold">plot_2dgridded</a> (<a href="matlab: opentoline('/Users/frochholz/PhDProject/muffingen-master/source/plot_2dgridded.m',193,0)">line 193</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('muffingen', '/Users/frochholz/PhDProject/muffingen-master/muffingen.m', 536)" style="font-weight:bold">muffingen</a> (<a href="matlab: opentoline('/Users/frochholz/PhDProject/muffingen-master/muffingen.m',536,0)">line 536</a>)] 
+       * Revised land area fraction = -3.3307e-15
+>   8. USER EDITING OF MASK ...
+       * Mask alteration procedure :
+         (1) left button to turn grid cell to ocean
+         (2) right button to turn grid cell to land
+         (3) middle button to finish
+         -> Cell at (2, 18) now ocean
+         -> Cell at (1, 18) now land
+         -> Cell at (2, 18) now land
+         -> Cell at (3, 18) now land
+         -> Cell at (4, 18) now land
+         -> Cell at (5, 18) now land
+         -> Cell at (6, 18) now land
+         -> Cell at (9, 18) now land
+         -> Cell at (8, 18) now land
+         -> Cell at (7, 18) now land
+         -> Cell at (10, 18) now land
+         -> Cell at (11, 18) now land
+         -> Cell at (12, 18) now land
+         -> Cell at (13, 18) now land
+         -> Cell at (14, 18) now land
+         -> Cell at (15, 18) now land
+         -> Cell at (16, 18) now land
+         -> Cell at (17, 18) now land
+         -> Cell at (18, 18) now land
+         -> Cell at (12, 17) now land
+         -> Cell at (13, 17) now land
+         -> Cell at (14, 17) now land
+         -> Cell at (15, 17) now land
+         -> Cell at (16, 17) now land
+         -> Cell at (16, 15) now land
+         -> Cell at (15, 16) now land
+         -> Cell at (14, 16) now land
+         -> Cell at (13, 16) now land
+         -> Cell at (12, 16) now land
+         -> Cell at (12, 15) now land
+         -> Cell at (13, 15) now land
+         -> Cell at (14, 15) now land
+         -> Cell at (15, 15) now land
+         -> Cell at (16, 15) now ocean
+         -> Cell at (15, 14) now land
+         -> Cell at (14, 14) now land
+         -> Cell at (13, 14) now land
+         -> Cell at (12, 14) now land
+         -> Cell at (12, 13) now land
+         -> Cell at (13, 13) now land
+         -> Cell at (14, 13) now land
+         -> Cell at (9, 18) now ocean
+         -> Cell at (9, 18) now land
+         -> Cell at (9, 17) now land
+         -> Cell at (10, 17) now land
+         -> Cell at (12, 17) now land
+         -> Cell at (11, 17) now land
+         -> Cell at (11, 16) now land
+         -> Cell at (10, 16) now land
+         -> Cell at (9, 16) now land
+         -> Cell at (9, 15) now land
+         -> Cell at (9, 14) now land
+         -> Cell at (9, 12) now land
+         -> Cell at (9, 13) now land
+         -> Cell at (9, 11) now land
+         -> Cell at (10, 11) now land
+         -> Cell at (10, 12) now land
+         -> Cell at (10, 9) now land
+         -> Cell at (9, 10) now land
+         -> Cell at (8, 11) now land
+         -> Cell at (8, 12) now land
+         -> Cell at (8, 13) now land
+         -> Cell at (11, 8) now land
+         -> Cell at (10, 10) now land
+         -> Cell at (8, 10) now land
+         -> Cell at (8, 9) now land
+         -> Cell at (9, 9) now land
+         -> Cell at (9, 8) now land
+         -> Cell at (9, 7) now land
+         -> Cell at (10, 8) now land
+         -> Cell at (8, 8) now land
+         -> Cell at (9, 7) now land
+         -> Cell at (10, 6) now land
+         -> Cell at (10, 7) now land
+         -> Cell at (9, 6) now land
+         -> Cell at (8, 7) now land
+         -> Cell at (11, 8) now land
+         -> Cell at (11, 8) now ocean
+         -> Cell at (7, 12) now ocean
+         -> Cell at (7, 11) now land
+         -> Cell at (7, 12) now land
+         -> Cell at (7, 10) now land
+         -> Cell at (15, 12) now land
+         -> Cell at (14, 12) now land
+         -> Cell at (13, 12) now land
+         -> Cell at (14, 11) now land
+         -> Cell at (12, 10) now land
+         -> Cell at (12, 9) now land
+         -> Cell at (13, 9) now land
+         -> Cell at (14, 1) now land
+         -> Cell at (14, 1) now land
+         -> Cell at (16, 1) now land
+         -> Cell at (16, 1) now land
+         -> Cell at (17, 1) now land
+         -> Cell at (18, 1) now land
+         -> Cell at (18, 2) now land
+         -> Cell at (17, 2) now land
+         -> Cell at (16, 2) now land
+         -> Cell at (16, 2) now land
+         -> Cell at (16, 3) now land
+         -> Cell at (15, 3) now land
+         -> Cell at (15, 2) now land
+         -> Cell at (15, 1) now land
+         -> Cell at (14, 2) now land
+         -> Cell at (14, 3) now land
+         -> Cell at (14, 4) now land
+         -> Cell at (15, 4) now land
+         -> Cell at (16, 4) now land
+         -> Cell at (13, 1) now land
+         -> Cell at (11, 1) now land
+         -> Cell at (11, 1) now land
+         -> Cell at (10, 1) now land
+         -> Cell at (9, 1) now land
+         -> Cell at (8, 1) now land
+         -> Cell at (5, 1) now land
+         -> Cell at (5, 1) now land
+         -> Cell at (6, 1) now land
+         -> Cell at (12, 1) now land
+         -> Cell at (7, 1) now land
+         -> Cell at (4, 1) now land
+         -> Cell at (3, 1) now land
+         -> Cell at (2, 1) now land
+         -> Cell at (1, 1) now land
+         -> Cell at (3, 2) now land
+         -> Cell at (3, 3) now land
+         -> Cell at (3, 4) now land
+         -> Cell at (3, 5) now land
+         -> Cell at (3, 6) now land
+         -> Cell at (3, 7) now land
+         -> Cell at (3, 8) now land
+         -> Cell at (3, 8) now land
+         -> Cell at (3, 9) now land
+         -> Cell at (4, 9) now land
+         -> Cell at (4, 8) now land
+         -> Cell at (2, 8) now land
+         -> Cell at (2, 7) now land
+         -> Cell at (2, 6) now land
+         -> Cell at (2, 5) now land
+         -> Cell at (2, 4) now land
+         -> Cell at (4, 5) now land
+         -> Cell at (4, 6) now land
+         -> Cell at (4, 7) now land
+         -> Cell at (4, 7) now land
+         -> Cell at (3, 17) now land
+         -> Cell at (4, 17) now land
+         -> Cell at (5, 17) now land
+         -> Cell at (6, 17) now land
+         -> Cell at (4, 16) now land
+         -> Cell at (3, 16) now land
+         -> Cell at (2, 15) now land
+         -> Cell at (3, 14) now land
+         -> Cell at (2, 13) now land
+         -> Cell at (2, 14) now land
+         -> Cell at (3, 13) now land
+         -> Cell at (3, 12) now land
+         -> Cell at (3, 15) now land
+         -> Cell at (2, 16) now land
+         -> Cell at (2, 17) now land
+         -> Cell at (2, 12) now land
+         -> Cell at (3, 12) now ocean
+         -> Cell at (2, 11) now land
+         -> Cell at (16, 17) now land
+         -> Cell at (16, 17) now ocean
+         -> Cell at (15, 16) now ocean
+         -> Cell at (15, 17) now ocean
+         -> Cell at (16, 17) now ocean
+         -> Cell at (15, 17) now ocean
+         -> Cell at (17, 17) now ocean
+         -> Cell at (17, 17) now land
+         -> Cell at (18, 17) now land
+         -> Cell at (16, 17) now land
+         -> Cell at (15, 17) now land
+         -> Cell at (15, 15) now ocean
+         -> Cell at (15, 14) now ocean
+         -> Cell at (15, 12) now ocean
+         -> Cell at (13, 9) now ocean
+         -> Cell at (9, 5) now ocean
+         -> Cell at (9, 5) now land
+         -> Cell at (9, 5) now land
+         -> Cell at (1, 17) now land
+         -> Cell at (1, 16) now land
+         -> Cell at (15, 11) now land
+         -> Cell at (9, 14) now ocean
+       * Mask alteration complete
+[Warning: The figure is too large for the page and will be cut off. Resize the figure, adjust the output size by setting the figure's PaperPosition property, use the
+'print' command with either the  '-bestfit' or '-fillpage' options, or use the 'Best fit' or 'Fill page' options on the 'Print Preview' window.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('validate', '/Applications/MATLAB_R2016b.app/toolbox/matlab/graphics/private/validate.m', 203)" style="font-weight:bold">validate</a> (<a href="matlab: opentoline('/Applications/MATLAB_R2016b.app/toolbox/matlab/graphics/private/validate.m',203,0)">line 203</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('print', '/Applications/MATLAB_R2016b.app/toolbox/matlab/graphics/print.m', 81)" style="font-weight:bold">print</a> (<a href="matlab: opentoline('/Applications/MATLAB_R2016b.app/toolbox/matlab/graphics/print.m',81,0)">line 81</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('plot_2dgridded', '/Users/frochholz/PhDProject/muffingen-master/source/plot_2dgridded.m', 193)" style="font-weight:bold">plot_2dgridded</a> (<a href="matlab: opentoline('/Users/frochholz/PhDProject/muffingen-master/source/plot_2dgridded.m',193,0)">line 193</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('muffingen', '/Users/frochholz/PhDProject/muffingen-master/muffingen.m', 557)" style="font-weight:bold">muffingen</a> (<a href="matlab: opentoline('/Users/frochholz/PhDProject/muffingen-master/muffingen.m',557,0)">line 557</a>)] 
+       * Revised land area fraction = 0.43519
+       - User-editing complete.
+[Warning: The figure is too large for the page and will be cut off. Resize the figure, adjust the output size by setting the figure's PaperPosition property, use the
+'print' command with either the  '-bestfit' or '-fillpage' options, or use the 'Best fit' or 'Fill page' options on the 'Print Preview' window.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('validate', '/Applications/MATLAB_R2016b.app/toolbox/matlab/graphics/private/validate.m', 203)" style="font-weight:bold">validate</a> (<a href="matlab: opentoline('/Applications/MATLAB_R2016b.app/toolbox/matlab/graphics/private/validate.m',203,0)">line 203</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('print', '/Applications/MATLAB_R2016b.app/toolbox/matlab/graphics/print.m', 81)" style="font-weight:bold">print</a> (<a href="matlab: opentoline('/Applications/MATLAB_R2016b.app/toolbox/matlab/graphics/print.m',81,0)">line 81</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('plot_2dgridded', '/Users/frochholz/PhDProject/muffingen-master/source/plot_2dgridded.m', 193)" style="font-weight:bold">plot_2dgridded</a> (<a href="matlab: opentoline('/Users/frochholz/PhDProject/muffingen-master/source/plot_2dgridded.m',193,0)">line 193</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('muffingen', '/Users/frochholz/PhDProject/muffingen-master/muffingen.m', 571)" style="font-weight:bold">muffingen</a> (<a href="matlab: opentoline('/Users/frochholz/PhDProject/muffingen-master/muffingen.m',571,0)">line 571</a>)] 
+       * Final land area fraction   = 0.43519
+>   9. RE-GRIDING OCEAN BATHYMETRY ...
+       - Bathymetry re-gridding complete.
+[Warning: The figure is too large for the page and will be cut off. Resize the figure, adjust the output size by setting the figure's PaperPosition property, use the
+'print' command with either the  '-bestfit' or '-fillpage' options, or use the 'Best fit' or 'Fill page' options on the 'Print Preview' window.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('validate', '/Applications/MATLAB_R2016b.app/toolbox/matlab/graphics/private/validate.m', 203)" style="font-weight:bold">validate</a> (<a href="matlab: opentoline('/Applications/MATLAB_R2016b.app/toolbox/matlab/graphics/private/validate.m',203,0)">line 203</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('print', '/Applications/MATLAB_R2016b.app/toolbox/matlab/graphics/print.m', 81)" style="font-weight:bold">print</a> (<a href="matlab: opentoline('/Applications/MATLAB_R2016b.app/toolbox/matlab/graphics/print.m',81,0)">line 81</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('plot_2dgridded', '/Users/frochholz/PhDProject/muffingen-master/source/plot_2dgridded.m', 193)" style="font-weight:bold">plot_2dgridded</a> (<a href="matlab: opentoline('/Users/frochholz/PhDProject/muffingen-master/source/plot_2dgridded.m',193,0)">line 193</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('muffingen', '/Users/frochholz/PhDProject/muffingen-master/muffingen.m', 594)" style="font-weight:bold">muffingen</a> (<a href="matlab: opentoline('/Users/frochholz/PhDProject/muffingen-master/muffingen.m',594,0)">line 594</a>)] 
+>  11. USER EDITING OF TOPO ...
+       * Topography alteration procedure :
+         (1) left button to deepen grid cell
+         (2) right button to shallow grid cell
+         (3) middle button to finish
+         -> Deepening cell at (1, 11) to k=2
+         -> Shallowing cell at (1, 11) to k=3
+         -> Deepening cell at (4, 14) to k=2
+         -> Deepening cell at (4, 14) to k=1
+         -> Deepening cell at (4, 13) to k=2
+         -> Deepening cell at (4, 13) to k=1
+         -> Deepening cell at (4, 12) to k=2
+         -> Deepening cell at (4, 11) to k=2
+         -> Deepening cell at (4, 12) to k=1
+       - Cannot deepen/shallow cell at (4, 12)
+         -> Deepening cell at (4, 11) to k=1
+         -> Deepening cell at (5, 10) to k=2
+         -> Deepening cell at (5, 10) to k=1
+         -> Deepening cell at (18, 15) to k=2
+         -> Deepening cell at (18, 15) to k=1
+         -> Deepening cell at (17, 15) to k=2
+         -> Deepening cell at (17, 15) to k=1
+         -> Deepening cell at (16, 15) to k=2
+         -> Deepening cell at (16, 15) to k=1
+         -> Deepening cell at (16, 14) to k=2
+         -> Deepening cell at (16, 14) to k=1
+         -> Deepening cell at (17, 14) to k=2
+         -> Deepening cell at (17, 14) to k=1
+         -> Deepening cell at (18, 14) to k=2
+         -> Deepening cell at (18, 14) to k=1
+         -> Deepening cell at (18, 13) to k=2
+         -> Deepening cell at (18, 13) to k=1
+         -> Deepening cell at (17, 13) to k=2
+         -> Deepening cell at (17, 13) to k=1
+         -> Deepening cell at (16, 13) to k=2
+         -> Deepening cell at (16, 13) to k=1
+         -> Deepening cell at (16, 12) to k=2
+         -> Deepening cell at (16, 12) to k=1
+         -> Deepening cell at (17, 12) to k=2
+         -> Deepening cell at (17, 12) to k=1
+         -> Deepening cell at (18, 12) to k=2
+         -> Deepening cell at (18, 12) to k=1
+         -> Deepening cell at (18, 11) to k=2
+         -> Deepening cell at (18, 11) to k=1
+         -> Deepening cell at (17, 11) to k=2
+         -> Deepening cell at (17, 11) to k=1
+         -> Deepening cell at (16, 11) to k=2
+         -> Deepening cell at (16, 11) to k=1
+         -> Deepening cell at (17, 10) to k=2
+         -> Deepening cell at (17, 10) to k=1
+         -> Deepening cell at (16, 10) to k=2
+         -> Deepening cell at (16, 10) to k=1
+         -> Deepening cell at (16, 8) to k=2
+         -> Deepening cell at (16, 9) to k=2
+         -> Deepening cell at (16, 9) to k=1
+         -> Deepening cell at (16, 8) to k=1
+         -> Deepening cell at (17, 8) to k=2
+         -> Deepening cell at (17, 9) to k=2
+         -> Deepening cell at (17, 9) to k=1
+         -> Deepening cell at (18, 9) to k=2
+         -> Deepening cell at (18, 10) to k=2
+         -> Deepening cell at (18, 10) to k=1
+         -> Deepening cell at (18, 8) to k=2
+         -> Deepening cell at (18, 9) to k=1
+       - Cannot deepen/shallow cell at (18, 9)
+         -> Deepening cell at (17, 8) to k=1
+         -> Deepening cell at (18, 8) to k=1
+         -> Deepening cell at (18, 7) to k=2
+         -> Deepening cell at (18, 6) to k=2
+         -> Deepening cell at (17, 6) to k=2
+         -> Deepening cell at (17, 7) to k=2
+         -> Deepening cell at (16, 6) to k=2
+         -> Deepening cell at (16, 5) to k=2
+         -> Deepening cell at (16, 7) to k=2
+         -> Deepening cell at (15, 7) to k=2
+         -> Deepening cell at (14, 6) to k=2
+         -> Deepening cell at (14, 7) to k=2
+         -> Deepening cell at (15, 5) to k=2
+         -> Deepening cell at (14, 5) to k=2
+         -> Deepening cell at (13, 5) to k=2
+         -> Deepening cell at (13, 4) to k=2
+         -> Deepening cell at (13, 5) to k=1
+         -> Deepening cell at (15, 5) to k=1
+         -> Deepening cell at (15, 6) to k=2
+         -> Deepening cell at (15, 7) to k=1
+         -> Deepening cell at (14, 7) to k=1
+         -> Deepening cell at (14, 6) to k=1
+         -> Deepening cell at (15, 6) to k=1
+         -> Deepening cell at (14, 5) to k=1
+         -> Deepening cell at (16, 5) to k=1
+         -> Deepening cell at (16, 6) to k=1
+         -> Deepening cell at (16, 7) to k=1
+         -> Deepening cell at (17, 7) to k=1
+         -> Deepening cell at (18, 6) to k=1
+         -> Deepening cell at (17, 6) to k=1
+         -> Deepening cell at (17, 5) to k=2
+         -> Deepening cell at (18, 5) to k=2
+         -> Deepening cell at (17, 5) to k=1
+       - Cannot deepen/shallow cell at (17, 5)
+         -> Deepening cell at (18, 5) to k=1
+         -> Deepening cell at (18, 7) to k=1
+         -> Deepening cell at (13, 6) to k=2
+         -> Deepening cell at (13, 6) to k=1
+         -> Deepening cell at (13, 7) to k=2
+         -> Deepening cell at (13, 7) to k=1
+         -> Deepening cell at (12, 7) to k=2
+         -> Deepening cell at (12, 7) to k=1
+         -> Deepening cell at (12, 6) to k=2
+         -> Deepening cell at (12, 5) to k=2
+         -> Deepening cell at (12, 6) to k=1
+         -> Deepening cell at (12, 5) to k=1
+         -> Deepening cell at (12, 4) to k=2
+         -> Deepening cell at (12, 4) to k=1
+         -> Deepening cell at (11, 4) to k=2
+         -> Deepening cell at (11, 4) to k=1
+         -> Deepening cell at (11, 3) to k=2
+         -> Deepening cell at (11, 3) to k=1
+         -> Deepening cell at (12, 3) to k=2
+         -> Deepening cell at (12, 3) to k=1
+         -> Deepening cell at (13, 3) to k=2
+         -> Deepening cell at (13, 3) to k=1
+         -> Deepening cell at (13, 4) to k=1
+       - Cannot deepen/shallow cell at (13, 4)
+         -> Deepening cell at (11, 2) to k=2
+         -> Deepening cell at (11, 2) to k=1
+         -> Deepening cell at (12, 2) to k=2
+         -> Deepening cell at (12, 2) to k=1
+         -> Deepening cell at (13, 2) to k=2
+         -> Deepening cell at (13, 2) to k=1
+         -> Deepening cell at (10, 2) to k=2
+         -> Deepening cell at (10, 3) to k=2
+         -> Deepening cell at (9, 3) to k=2
+         -> Deepening cell at (9, 2) to k=2
+         -> Deepening cell at (8, 2) to k=2
+         -> Deepening cell at (8, 2) to k=1
+         -> Deepening cell at (8, 3) to k=2
+         -> Deepening cell at (8, 3) to k=1
+         -> Deepening cell at (9, 3) to k=1
+       - Cannot deepen/shallow cell at (9, 3)
+         -> Deepening cell at (9, 2) to k=1
+         -> Deepening cell at (10, 2) to k=1
+         -> Deepening cell at (7, 3) to k=2
+         -> Deepening cell at (7, 2) to k=2
+         -> Deepening cell at (6, 3) to k=2
+         -> Deepening cell at (7, 4) to k=2
+         -> Deepening cell at (6, 4) to k=2
+         -> Deepening cell at (6, 5) to k=2
+         -> Deepening cell at (7, 5) to k=2
+         -> Deepening cell at (7, 5) to k=1
+         -> Deepening cell at (6, 6) to k=2
+         -> Deepening cell at (6, 7) to k=2
+         -> Deepening cell at (6, 8) to k=2
+         -> Deepening cell at (6, 8) to k=1
+         -> Deepening cell at (5, 9) to k=2
+         -> Deepening cell at (5, 8) to k=2
+         -> Deepening cell at (5, 7) to k=2
+         -> Deepening cell at (5, 6) to k=2
+         -> Deepening cell at (5, 6) to k=1
+         -> Deepening cell at (5, 5) to k=2
+         -> Deepening cell at (5, 5) to k=1
+         -> Deepening cell at (5, 4) to k=2
+         -> Deepening cell at (6, 3) to k=1
+         -> Deepening cell at (6, 4) to k=1
+       - Cannot deepen/shallow cell at (6, 4)
+         -> Deepening cell at (6, 5) to k=1
+         -> Deepening cell at (5, 4) to k=1
+         -> Deepening cell at (7, 4) to k=1
+         -> Deepening cell at (6, 6) to k=1
+         -> Deepening cell at (6, 7) to k=1
+         -> Deepening cell at (5, 8) to k=1
+         -> Deepening cell at (5, 9) to k=1
+         -> Deepening cell at (5, 7) to k=1
+         -> Deepening cell at (7, 3) to k=1
+       - Cannot deepen/shallow cell at (9, 3)
+         -> Deepening cell at (10, 3) to k=1
+         -> Deepening cell at (1, 10) to k=2
+         -> Deepening cell at (1, 9) to k=2
+         -> Deepening cell at (1, 8) to k=2
+         -> Deepening cell at (1, 6) to k=2
+         -> Deepening cell at (1, 5) to k=2
+         -> Deepening cell at (1, 4) to k=2
+         -> Deepening cell at (1, 7) to k=2
+         -> Deepening cell at (1, 3) to k=2
+         -> Deepening cell at (1, 2) to k=2
+         -> Deepening cell at (14, 8) to k=2
+         -> Deepening cell at (15, 8) to k=2
+         -> Deepening cell at (15, 9) to k=2
+         -> Deepening cell at (15, 9) to k=1
+         -> Deepening cell at (15, 8) to k=1
+       - Cannot deepen/shallow cell at (15, 8)
+         -> Deepening cell at (14, 8) to k=1
+         -> Deepening cell at (14, 9) to k=2
+         -> Deepening cell at (14, 9) to k=1
+         -> Deepening cell at (14, 10) to k=2
+         -> Deepening cell at (13, 9) to k=2
+         -> Deepening cell at (13, 8) to k=2
+         -> Deepening cell at (12, 8) to k=2
+         -> Deepening cell at (5, 14) to k=2
+         -> Deepening cell at (6, 14) to k=2
+         -> Deepening cell at (6, 15) to k=2
+         -> Deepening cell at (5, 14) to k=1
+         -> Deepening cell at (5, 13) to k=2
+         -> Deepening cell at (5, 15) to k=2
+         -> Deepening cell at (6, 12) to k=2
+         -> Deepening cell at (5, 12) to k=2
+         -> Deepening cell at (5, 11) to k=2
+         -> Deepening cell at (6, 11) to k=2
+         -> Deepening cell at (6, 13) to k=2
+         -> Deepening cell at (6, 10) to k=2
+         -> Deepening cell at (6, 9) to k=2
+         -> Deepening cell at (4, 10) to k=2
+       * Topography alteration complete
+[Warning: The figure is too large for the page and will be cut off. Resize the figure, adjust the output size by setting the figure's PaperPosition property, use the
+'print' command with either the  '-bestfit' or '-fillpage' options, or use the 'Best fit' or 'Fill page' options on the 'Print Preview' window.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('validate', '/Applications/MATLAB_R2016b.app/toolbox/matlab/graphics/private/validate.m', 203)" style="font-weight:bold">validate</a> (<a href="matlab: opentoline('/Applications/MATLAB_R2016b.app/toolbox/matlab/graphics/private/validate.m',203,0)">line 203</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('print', '/Applications/MATLAB_R2016b.app/toolbox/matlab/graphics/print.m', 81)" style="font-weight:bold">print</a> (<a href="matlab: opentoline('/Applications/MATLAB_R2016b.app/toolbox/matlab/graphics/print.m',81,0)">line 81</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('plot_2dgridded', '/Users/frochholz/PhDProject/muffingen-master/source/plot_2dgridded.m', 193)" style="font-weight:bold">plot_2dgridded</a> (<a href="matlab: opentoline('/Users/frochholz/PhDProject/muffingen-master/source/plot_2dgridded.m',193,0)">line 193</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('muffingen', '/Users/frochholz/PhDProject/muffingen-master/muffingen.m', 619)" style="font-weight:bold">muffingen</a> (<a href="matlab: opentoline('/Users/frochholz/PhDProject/muffingen-master/muffingen.m',619,0)">line 619</a>)] 
+       - User-editing complete.
+[Warning: The figure is too large for the page and will be cut off. Resize the figure, adjust the output size by setting the figure's PaperPosition property, use the
+'print' command with either the  '-bestfit' or '-fillpage' options, or use the 'Best fit' or 'Fill page' options on the 'Print Preview' window.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('validate', '/Applications/MATLAB_R2016b.app/toolbox/matlab/graphics/private/validate.m', 203)" style="font-weight:bold">validate</a> (<a href="matlab: opentoline('/Applications/MATLAB_R2016b.app/toolbox/matlab/graphics/private/validate.m',203,0)">line 203</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('print', '/Applications/MATLAB_R2016b.app/toolbox/matlab/graphics/print.m', 81)" style="font-weight:bold">print</a> (<a href="matlab: opentoline('/Applications/MATLAB_R2016b.app/toolbox/matlab/graphics/print.m',81,0)">line 81</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('plot_2dgridded', '/Users/frochholz/PhDProject/muffingen-master/source/plot_2dgridded.m', 193)" style="font-weight:bold">plot_2dgridded</a> (<a href="matlab: opentoline('/Users/frochholz/PhDProject/muffingen-master/source/plot_2dgridded.m',193,0)">line 193</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('muffingen', '/Users/frochholz/PhDProject/muffingen-master/muffingen.m', 628)" style="font-weight:bold">muffingen</a> (<a href="matlab: opentoline('/Users/frochholz/PhDProject/muffingen-master/muffingen.m',628,0)">line 628</a>)] 
+[Warning: The figure is too large for the page and will be cut off. Resize the figure, adjust the output size by setting the figure's PaperPosition property, use the
+'print' command with either the  '-bestfit' or '-fillpage' options, or use the 'Best fit' or 'Fill page' options on the 'Print Preview' window.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('validate', '/Applications/MATLAB_R2016b.app/toolbox/matlab/graphics/private/validate.m', 203)" style="font-weight:bold">validate</a> (<a href="matlab: opentoline('/Applications/MATLAB_R2016b.app/toolbox/matlab/graphics/private/validate.m',203,0)">line 203</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('print', '/Applications/MATLAB_R2016b.app/toolbox/matlab/graphics/print.m', 81)" style="font-weight:bold">print</a> (<a href="matlab: opentoline('/Applications/MATLAB_R2016b.app/toolbox/matlab/graphics/print.m',81,0)">line 81</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('plot_2dgridded', '/Users/frochholz/PhDProject/muffingen-master/source/plot_2dgridded.m', 193)" style="font-weight:bold">plot_2dgridded</a> (<a href="matlab: opentoline('/Users/frochholz/PhDProject/muffingen-master/source/plot_2dgridded.m',193,0)">line 193</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('muffingen', '/Users/frochholz/PhDProject/muffingen-master/muffingen.m', 630)" style="font-weight:bold">muffingen</a> (<a href="matlab: opentoline('/Users/frochholz/PhDProject/muffingen-master/muffingen.m',630,0)">line 630</a>)] 
+>  12. CALCULATING RUN-OFF AND GENERATE .k1 FILE ...
+[Warning: The figure is too large for the page and will be cut off. Resize the figure, adjust the output size by setting the figure's PaperPosition property, use the
+'print' command with either the  '-bestfit' or '-fillpage' options, or use the 'Best fit' or 'Fill page' options on the 'Print Preview' window.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('validate', '/Applications/MATLAB_R2016b.app/toolbox/matlab/graphics/private/validate.m', 203)" style="font-weight:bold">validate</a> (<a href="matlab: opentoline('/Applications/MATLAB_R2016b.app/toolbox/matlab/graphics/private/validate.m',203,0)">line 203</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('print', '/Applications/MATLAB_R2016b.app/toolbox/matlab/graphics/print.m', 81)" style="font-weight:bold">print</a> (<a href="matlab: opentoline('/Applications/MATLAB_R2016b.app/toolbox/matlab/graphics/print.m',81,0)">line 81</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('plot_2dgridded', '/Users/frochholz/PhDProject/muffingen-master/source/plot_2dgridded.m', 193)" style="font-weight:bold">plot_2dgridded</a> (<a href="matlab: opentoline('/Users/frochholz/PhDProject/muffingen-master/source/plot_2dgridded.m',193,0)">line 193</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('muffingen', '/Users/frochholz/PhDProject/muffingen-master/muffingen.m', 647)" style="font-weight:bold">muffingen</a> (<a href="matlab: opentoline('/Users/frochholz/PhDProject/muffingen-master/muffingen.m',647,0)">line 647</a>)] 
+       - .k1 file saved
+>  13. IDENTIFY ISLANDS ...
+       * found 1 land masses
+       * found 2 land masses
+       * found 3 land masses
+       * found 4 land masses
+[Warning: The figure is too large for the page and will be cut off. Resize the figure, adjust the output size by setting the figure's PaperPosition property, use the
+'print' command with either the  '-bestfit' or '-fillpage' options, or use the 'Best fit' or 'Fill page' options on the 'Print Preview' window.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('validate', '/Applications/MATLAB_R2016b.app/toolbox/matlab/graphics/private/validate.m', 203)" style="font-weight:bold">validate</a> (<a href="matlab: opentoline('/Applications/MATLAB_R2016b.app/toolbox/matlab/graphics/private/validate.m',203,0)">line 203</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('print', '/Applications/MATLAB_R2016b.app/toolbox/matlab/graphics/print.m', 81)" style="font-weight:bold">print</a> (<a href="matlab: opentoline('/Applications/MATLAB_R2016b.app/toolbox/matlab/graphics/print.m',81,0)">line 81</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('plot_2dgridded', '/Users/frochholz/PhDProject/muffingen-master/source/plot_2dgridded.m', 193)" style="font-weight:bold">plot_2dgridded</a> (<a href="matlab: opentoline('/Users/frochholz/PhDProject/muffingen-master/source/plot_2dgridded.m',193,0)">line 193</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('muffingen', '/Users/frochholz/PhDProject/muffingen-master/muffingen.m', 679)" style="font-weight:bold">muffingen</a> (<a href="matlab: opentoline('/Users/frochholz/PhDProject/muffingen-master/muffingen.m',679,0)">line 679</a>)] 
+>  14. UPDATING ISLANDS & PATHS ...
+[Warning: The figure is too large for the page and will be cut off. Resize the figure, adjust the output size by setting the figure's PaperPosition property, use the
+'print' command with either the  '-bestfit' or '-fillpage' options, or use the 'Best fit' or 'Fill page' options on the 'Print Preview' window.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('validate', '/Applications/MATLAB_R2016b.app/toolbox/matlab/graphics/private/validate.m', 203)" style="font-weight:bold">validate</a> (<a href="matlab: opentoline('/Applications/MATLAB_R2016b.app/toolbox/matlab/graphics/private/validate.m',203,0)">line 203</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('print', '/Applications/MATLAB_R2016b.app/toolbox/matlab/graphics/print.m', 81)" style="font-weight:bold">print</a> (<a href="matlab: opentoline('/Applications/MATLAB_R2016b.app/toolbox/matlab/graphics/print.m',81,0)">line 81</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('plot_2dgridded', '/Users/frochholz/PhDProject/muffingen-master/source/plot_2dgridded.m', 193)" style="font-weight:bold">plot_2dgridded</a> (<a href="matlab: opentoline('/Users/frochholz/PhDProject/muffingen-master/source/plot_2dgridded.m',193,0)">line 193</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('muffingen', '/Users/frochholz/PhDProject/muffingen-master/muffingen.m', 691)" style="font-weight:bold">muffingen</a> (<a href="matlab: opentoline('/Users/frochholz/PhDProject/muffingen-master/muffingen.m',691,0)">line 691</a>)] 
+       * updated find: N-S connected polar island
+       * total # true islands = 0
+[Warning: The figure is too large for the page and will be cut off. Resize the figure, adjust the output size by setting the figure's PaperPosition property, use the
+'print' command with either the  '-bestfit' or '-fillpage' options, or use the 'Best fit' or 'Fill page' options on the 'Print Preview' window.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('validate', '/Applications/MATLAB_R2016b.app/toolbox/matlab/graphics/private/validate.m', 203)" style="font-weight:bold">validate</a> (<a href="matlab: opentoline('/Applications/MATLAB_R2016b.app/toolbox/matlab/graphics/private/validate.m',203,0)">line 203</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('print', '/Applications/MATLAB_R2016b.app/toolbox/matlab/graphics/print.m', 81)" style="font-weight:bold">print</a> (<a href="matlab: opentoline('/Applications/MATLAB_R2016b.app/toolbox/matlab/graphics/print.m',81,0)">line 81</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('plot_2dgridded', '/Users/frochholz/PhDProject/muffingen-master/source/plot_2dgridded.m', 193)" style="font-weight:bold">plot_2dgridded</a> (<a href="matlab: opentoline('/Users/frochholz/PhDProject/muffingen-master/source/plot_2dgridded.m',193,0)">line 193</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('muffingen', '/Users/frochholz/PhDProject/muffingen-master/muffingen.m', 697)" style="font-weight:bold">muffingen</a> (<a href="matlab: opentoline('/Users/frochholz/PhDProject/muffingen-master/muffingen.m',697,0)">line 697</a>)] 
+[Warning: The figure is too large for the page and will be cut off. Resize the figure, adjust the output size by setting the figure's PaperPosition property, use the
+'print' command with either the  '-bestfit' or '-fillpage' options, or use the 'Best fit' or 'Fill page' options on the 'Print Preview' window.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('validate', '/Applications/MATLAB_R2016b.app/toolbox/matlab/graphics/private/validate.m', 203)" style="font-weight:bold">validate</a> (<a href="matlab: opentoline('/Applications/MATLAB_R2016b.app/toolbox/matlab/graphics/private/validate.m',203,0)">line 203</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('print', '/Applications/MATLAB_R2016b.app/toolbox/matlab/graphics/print.m', 81)" style="font-weight:bold">print</a> (<a href="matlab: opentoline('/Applications/MATLAB_R2016b.app/toolbox/matlab/graphics/print.m',81,0)">line 81</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('plot_2dgridded', '/Users/frochholz/PhDProject/muffingen-master/source/plot_2dgridded.m', 193)" style="font-weight:bold">plot_2dgridded</a> (<a href="matlab: opentoline('/Users/frochholz/PhDProject/muffingen-master/source/plot_2dgridded.m',193,0)">line 193</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('muffingen', '/Users/frochholz/PhDProject/muffingen-master/muffingen.m', 701)" style="font-weight:bold">muffingen</a> (<a href="matlab: opentoline('/Users/frochholz/PhDProject/muffingen-master/muffingen.m',701,0)">line 701</a>)] 
+       * Borders alteration procedure :
+         (1) left button to increase border #
+         (2) right button to decrease border # (0 == no border)
+         (3) middle button to finish
+         [exit (middle button) if unsure WTF]
+       * Borders alteration complete
+[Warning: The figure is too large for the page and will be cut off. Resize the figure, adjust the output size by setting the figure's PaperPosition property, use the
+'print' command with either the  '-bestfit' or '-fillpage' options, or use the 'Best fit' or 'Fill page' options on the 'Print Preview' window.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('validate', '/Applications/MATLAB_R2016b.app/toolbox/matlab/graphics/private/validate.m', 203)" style="font-weight:bold">validate</a> (<a href="matlab: opentoline('/Applications/MATLAB_R2016b.app/toolbox/matlab/graphics/private/validate.m',203,0)">line 203</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('print', '/Applications/MATLAB_R2016b.app/toolbox/matlab/graphics/print.m', 81)" style="font-weight:bold">print</a> (<a href="matlab: opentoline('/Applications/MATLAB_R2016b.app/toolbox/matlab/graphics/print.m',81,0)">line 81</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('plot_2dgridded', '/Users/frochholz/PhDProject/muffingen-master/source/plot_2dgridded.m', 193)" style="font-weight:bold">plot_2dgridded</a> (<a href="matlab: opentoline('/Users/frochholz/PhDProject/muffingen-master/source/plot_2dgridded.m',193,0)">line 193</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('muffingen', '/Users/frochholz/PhDProject/muffingen-master/muffingen.m', 709)" style="font-weight:bold">muffingen</a> (<a href="matlab: opentoline('/Users/frochholz/PhDProject/muffingen-master/muffingen.m',709,0)">line 709</a>)] 
+[Warning: The figure is too large for the page and will be cut off. Resize the figure, adjust the output size by setting the figure's PaperPosition property, use the
+'print' command with either the  '-bestfit' or '-fillpage' options, or use the 'Best fit' or 'Fill page' options on the 'Print Preview' window.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('validate', '/Applications/MATLAB_R2016b.app/toolbox/matlab/graphics/private/validate.m', 203)" style="font-weight:bold">validate</a> (<a href="matlab: opentoline('/Applications/MATLAB_R2016b.app/toolbox/matlab/graphics/private/validate.m',203,0)">line 203</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('print', '/Applications/MATLAB_R2016b.app/toolbox/matlab/graphics/print.m', 81)" style="font-weight:bold">print</a> (<a href="matlab: opentoline('/Applications/MATLAB_R2016b.app/toolbox/matlab/graphics/print.m',81,0)">line 81</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('plot_2dgridded', '/Users/frochholz/PhDProject/muffingen-master/source/plot_2dgridded.m', 193)" style="font-weight:bold">plot_2dgridded</a> (<a href="matlab: opentoline('/Users/frochholz/PhDProject/muffingen-master/source/plot_2dgridded.m',193,0)">line 193</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('muffingen', '/Users/frochholz/PhDProject/muffingen-master/muffingen.m', 712)" style="font-weight:bold">muffingen</a> (<a href="matlab: opentoline('/Users/frochholz/PhDProject/muffingen-master/muffingen.m',712,0)">line 712</a>)] 
+>  15. GENERATING .paths FILE ...
+[Warning: The figure is too large for the page and will be cut off. Resize the figure, adjust the output size by setting the figure's PaperPosition property, use the
+'print' command with either the  '-bestfit' or '-fillpage' options, or use the 'Best fit' or 'Fill page' options on the 'Print Preview' window.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('validate', '/Applications/MATLAB_R2016b.app/toolbox/matlab/graphics/private/validate.m', 203)" style="font-weight:bold">validate</a> (<a href="matlab: opentoline('/Applications/MATLAB_R2016b.app/toolbox/matlab/graphics/private/validate.m',203,0)">line 203</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('print', '/Applications/MATLAB_R2016b.app/toolbox/matlab/graphics/print.m', 81)" style="font-weight:bold">print</a> (<a href="matlab: opentoline('/Applications/MATLAB_R2016b.app/toolbox/matlab/graphics/print.m',81,0)">line 81</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('plot_2dgridded', '/Users/frochholz/PhDProject/muffingen-master/source/plot_2dgridded.m', 193)" style="font-weight:bold">plot_2dgridded</a> (<a href="matlab: opentoline('/Users/frochholz/PhDProject/muffingen-master/source/plot_2dgridded.m',193,0)">line 193</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('muffingen', '/Users/frochholz/PhDProject/muffingen-master/muffingen.m', 724)" style="font-weight:bold">muffingen</a> (<a href="matlab: opentoline('/Users/frochholz/PhDProject/muffingen-master/muffingen.m',724,0)">line 724</a>)] 
+       - .paths file saved
+>  16. GENERATING .psiles FILE ...
+[Warning: The figure is too large for the page and will be cut off. Resize the figure, adjust the output size by setting the figure's PaperPosition property, use the
+'print' command with either the  '-bestfit' or '-fillpage' options, or use the 'Best fit' or 'Fill page' options on the 'Print Preview' window.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('validate', '/Applications/MATLAB_R2016b.app/toolbox/matlab/graphics/private/validate.m', 203)" style="font-weight:bold">validate</a> (<a href="matlab: opentoline('/Applications/MATLAB_R2016b.app/toolbox/matlab/graphics/private/validate.m',203,0)">line 203</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('print', '/Applications/MATLAB_R2016b.app/toolbox/matlab/graphics/print.m', 81)" style="font-weight:bold">print</a> (<a href="matlab: opentoline('/Applications/MATLAB_R2016b.app/toolbox/matlab/graphics/print.m',81,0)">line 81</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('plot_2dgridded', '/Users/frochholz/PhDProject/muffingen-master/source/plot_2dgridded.m', 193)" style="font-weight:bold">plot_2dgridded</a> (<a href="matlab: opentoline('/Users/frochholz/PhDProject/muffingen-master/source/plot_2dgridded.m',193,0)">line 193</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('muffingen', '/Users/frochholz/PhDProject/muffingen-master/muffingen.m', 739)" style="font-weight:bold">muffingen</a> (<a href="matlab: opentoline('/Users/frochholz/PhDProject/muffingen-master/muffingen.m',739,0)">line 739</a>)] 
+       - .psiles file saved
+       ! Something odd about the islands count or configuration ...
+>  17. CREATING WIND PRODUCTS ...
+       * No Northern gateway found.
+       * No Southern gateway found.
+       - Generated zonal wind products.
+>  18. LOADING ALBEDO DATA ...
+         (Nothing to load.)
+>  19. CREATING ALBEDO DATA ...
+       - Created generic zonal mean albedo profile.
+       - .albd.dat file saved
+>  21. GENERATING CONFIG FILE PARAMETER LINES ...
+       - .config file saved
+ 
+------------------------------------------------------------
+   Congratulations! SOMETHING was created ... 
+   ... hope it was what you wished for! :o)
+------------------------------------------------------------
+ 
